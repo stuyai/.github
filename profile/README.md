@@ -11,7 +11,7 @@ If you want to contact us on stuyactivities, look [here](https://stuyactivities.
 1. Otzar Jaffe, _Co-President_
 2. Daniel Elliott, _Co-President_
 3. Elias Xu, _Co-President_
-4. Junling Jiang, _Co-President_
+4. Junling Zhang, _Co-President_
 5. Preston Thomsen, _Co-President_
 6. Zidanni Clerigo, _Co-President_
 7. Mehmet Colak, _Co-President_

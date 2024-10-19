@@ -4,18 +4,14 @@
 
 stuyai is Stuyvesant's Artifical Intelligence Club. We hope to help the school through both applying AI to school projects and teaching students about AI/ML ideas and how to apply them.
 
-If you want to contact us on stuyactivities, look [here](https://stuyactivities.org/stuyai).
+If you want to contact us on stuyactivities, look [here](https://epsilon.stuysu.org/stuyai).
 
 ## Leadership
 
-1. Otzar Jaffe, _Co-President_
-2. Daniel Elliott, _Co-President_
+1. Will Nzeuton, _Co-President_
+2. Otzar Jaffe, _Co-President_
 3. Elias Xu, _Co-President_
-4. Junling Zhang, _Co-President_
-5. Preston Thomsen, _Co-President_
-6. Zidanni Clerigo, _Co-President_
-7. Mehmet Colak, _Co-President_
-9. James Dillon, _Faculty Advisor_
+4. James Dillon, _Faculty Advisor_
 
 ## Charter
 
@@ -23,17 +19,57 @@ If you want to contact us on stuyactivities, look [here](https://stuyactivities.
 
 stuyai aims to teach anyone, including complete beginners, how to make and improve their own meaningful machine learning models as they learn about AI.
 
-### Purpose
+stuyai is a club where students can learn about the vast world of artificial intelligence, whether you’re a complete beginner or an advanced coder. We focus on building accurate AI models, including image generators, natural language models, and audio classifier models. We will have group projects for different skill levels and even no-code project alternatives. Join us to learn about the future of tech!
 
-  Throughout the past few years, everybody (even those living under rocky rocks) has seen the advancements of AI and its increasing number of applications in society. AI's novelty and power can make it seem overwhelming and complex, making it seem intimidating enough to lead people to believe that learning about artificial intelligence or developing models and projects is infeasible, too costly, or simply enormously tricky. People could even start to fear artificial intelligence or, even worse, believe in it mindlessly.
+### Motivations for the Club
 
-  In this club, we aim to combat this by teaching concepts and guiding our members as they collaborate, construct, and compete with a focus on AI, with a focus on integrating knoweldge and usability. Through weekly lessons, we teach students to tackle issues that impact society in general and this school. We teach our members AI-related concepts, discussing their importance, benefits, shortcomings, and growth prospects while also giving ways to implement them through code. StuyAI does this with engaging lessons, games, tasks, and discussions. AI is not just for the programming geeks or TensorFlow tryhards. It's for everybody, and thus, it should be accessible to everyone, regardless of programming level. That's why this club has two separate lessons each week, one for anyone interested in AI and another for people who want to learn about using it in greater depth, learning specific techniques and application ideas. Even those with experience with artificial intelligence can learn more and join a community of people venturing into the vast world of artificial intelligence. AI does not exist in a vacuum; its application determines its potency.
-  
-  Beyond that, the community benefits when a group of students have a deeper understanding of AI. Anyone today needs to understand what is happening in AI; therefore, we aim to educate as many people as possible. Our club’s most important goal is to spread knowledge. This club grows awareness of AI outside its member base and even the broader community. This is done through events, fun facts, and projects that look to the larger community.
+Throughout the past few years, everybody (even those living under rocky rocks) has seen the advancements of AI and its increasing number of applications in society. AI's novelty and power can make it seem overwhelming and complex. This topic can seem intimidating enough to lead people to believe that learning about artificial intelligence or developing models and projects is infeasible, too costly, or simply enormously tricky. People could even start to fear artificial intelligence or, even worse, believe in it mindlessly.
+
+The leaders of this club have all worked with AI, whether having done AI research, created applications that utilize the technology, or been employed at a company that builds AI products. Even though AI, in our opinion, is overhyped, that shouldn't distract us from the fact that it still holds tremendous promise. We're motivated to join our perspectives and work to share them with the rest of the school, hoping to build something or teach others to build something that can impact the rest of the school or the community positively. Hopefully, our passion for AI can be translated and given to a part of this school so that people will work with AI to help the community while also knowing about its drawbacks.
+
+There are no active clubs within this school besides this club that have meetings focused on teaching members how to create machine learning models or giving them the resources and community to complete their passion projects. This club is for everyone, not just those knowledgeable or gifted in computer science. This club will focus on teaching students how to make machine learning models while also providing other resources for students who want to go further in their studies of AI. We will teach our members how to develop meaningful models while teaching them where those models can be applied with the most significant impact on the community.
+
+With the leadership being made up of rising seniors, we are in a year when we have to think about our legacy for the school. Stuy has given a lot to us, and we want to give back in a way to the school. As we conclude our time at Stuy, we hope that our work at this club will help foster a new group of students knowledgeable in AI and willing to apply this tool to the rest of the school and beyond as we work to further our success and fix our setbacks from last year.
+
+### Realistic Club Goals
+
+AI is not just for the programming geeks or coding tryhards. It's for everybody, and thus, it should be accessible to everyone, regardless of programming level. This club tries to find the most impactful way to apply AI. Beyond that, the community benefits when a group of students have a deeper understanding of AI. Anyone today needs to understand what is happening in AI; therefore, we aim to educate as many people as possible. This is the primary goal of our club and informs the rest of our decisions regarding it.
+
+We aim to have weekly lessons, each dedicated to a topic related to Artificial Intelligence. We want them to be exciting and informative. We've already created multiple lessons from last year, and we hope to improve those lessons and develop new ones that people will enjoy.
+
+We worked with Ms. Alonzo on an AI day last year, where speakers gave virtual talks to some STEM classes about how AI has affected their fields. We plan to do something like that again in some format, though we have yet to figure that out. This year, we hope to hold additional events and work with new groups to create collaborations.
+
+Last year, we collaborated with Stuyvesant's Social Deduction Club. We created an AI detective whose task was to find out, during a BOTC game, the demon. ChatGPT couldn't find the solution, but it managed to pick up clues and foster a lot of the fun that went into the collaboration.
+
+Additionally, we plan to improve the Discord Server and make it a more useful meeting place for AI-related discussions. We've created a Discord bot and plan to make other server improvements.
+
+Finally, we're planning to do something of a newsletter for our members. It's hard for many people to slot out time to meet regularly, and we're hoping that something like a newsletter can be informative and entertaining for those people. 
 
 
-### Benefits of stuyai to the school
+### Meeting Descriptions
 
-  stuyai benefits its members and the school community by spreading knowledge about a ever growing area, creating a community for focused learners, and producing projects to help the school. It is not only for enthusiasts to have fun. stuyai is for the entire school community and is meant to bring knowledge of AI to the whole student body. Our members will develop valuable programming, data analysis, and problem-solving skills through projects, lessons, and other activities. Our members can use AI tools more effectively due to a deep understanding of what’s happening behind the curtains when they type a prompt for a large language model or an image generator. As they attend more meetings and complete club projects, they will continue to grow their understanding of AI's immediate and long-term impact, including how it could be applied in their future career. Most importantly, they will be able to develop an understanding of AI to filter through what they hear and see online. Beyond that, the knowledge gained could also help them create their own AI projects, which they can use to improve the world around them. 
+A typical meeting at stuyai is designed to be fun and informative, with something for everyone, both new coders and coders who already have experience. We will start each meeting with a brief, simple slideshow that explains the topic of the day. For example, if we’re having a meeting about Convolutional Neural Networks (CNNs), we might start with a simple analogy for how these types of networks can tell the difference between an apple and a banana.
 
-  No matter the experience level, knowledge about artificial intelligence will benefit the individual who has it and, by extension, the people around them. stuyai is what its leaders wish they had when they started learning AI. Self-studying a topic such as AI is frustrating and challenging, making it hard to gain motivation or affirmation. This club helps provide a way for people to connect with others interested in AI and struggle through a challenge together. All our lessons have different levels, so we will ensure that you are always slightly challenged but not overwhelmed. Our club offers you a chance to learn something you may not have considered exploring befor, while equipping you with the resources you need to ultimately make you feel accomplished after learning a challenging topic. Beyond the individual members, Stuyvesant as a whole will benefit from this club. Every year, we will have at least one project focusing on helping the school community. It could be anything, from a classifier to determine where you should put your trash to checking the escalators. As a school renowned for its strength in STEM, Stuyvesant is missing a large community where people can gain an understanding of AI, which we provide.
+After the intro, we will start a hands-on activity. These will mainly consist of small projects with other club members with a similar skill level, usually in groups of 2-3. We have projects for three levels of coding experiences, so all members will have projects that are challenging but not too challenging. We will also have projects where our members can create machine learning models without coding, if coding is not someone's thing. At the end of the month, we will mix things up with a fun game like Jeopardy, or whatever our members want to play.
+
+We know that everyone learns at their own pace, so we will keep our slideshows short and mostly concept-based with mostly images. This will give our members plenty of time to work on projects related to the day’s topic or continue working on a project from another day. Plus, our members won’t need a powerful computer to participate, since we will code on Google Colab, which offers free GPU use for everyone.
+
+### Meeting Schedule
+
+Depending on our planned lessons, we plan on meeting at least once a week, and maybe more. Since we're seniors, we'll probably take breaks a week before the college app submission deadlines and maybe before major holidays. We don't have a specific day for a meeting (we met weekly on Tuesday last year), but we plan to gather info during our interest meeting.
+
+### Club Leadership
+
+Our club will have three co-presidents. These leaders will work together to create engaging material, deliver lessons, and organize events. Each co-president will bring unique strengths and perspectives to maintain a well-structured environment. They will also collaborate to elect new leaders based on members’ behaviors in meetings, engagement, and demonstrated capabilities. Additionally, if leaders find that a co-president is consistently not acting in the best interest of the club or its members (being inactive, uncooperative, failing to create material, etc.) then they may decide to suspend or revoke their leadership role after thorough discussion and a series of warning/“strikes.” 
+
+### Why is this Club Unique?
+
+Stuyvesant has hundreds of great clubs and organizations, but they don’t address machine learning like ours. At stuyai, we’re all about creating rather than purely discussing. We believe that hands-on experience training machine learning models are an enriching activity, which you won’t find emphasized in any other club like ours. 
+
+Our club is designed to be welcoming to everyone, especially beginners. We ensure that no one feels overwhelmed, providing an environment for everyone to learn at their own pace. As leaders who have collectively trained hundreds of AI models, we want to share the joy and satisfaction that comes from training these models. Of course, we'll have sessions explaining the concepts and myths of machine learning, which we are excited to share.
+
+AI has already fundamentally changed the world, and we want to ensure that all Stuyvesant students can be part of that change. Our club is more than just coding; it’s about thinking about the use of AI, its potential to help the community, and its limitations. By chartering this club, we hope to inspire other students to be more curious about the technology around them. As leaders, we hope to understand more about how Stuyvesant students think about AI since we’ve had many years of experience with AI.
+
+### Why is this club going to be rechartered?
+
+stuyai should be rechartered because of the work it has done and will do to spread awareness and knowledge regarding AI. Over a year after merging with another club, we have collaborated with other student organizations, teachers, and outside community members to raise awareness regarding AI and its impacts on society. The reception to AI Day was relatively positive, and we've built something substantial over just one year. By rechartering, we hope to continue and improve what we've built into next year and then pass it to the next group of Stuy students. By doing this, we hope that our club can become something much larger than it is and we are. 
